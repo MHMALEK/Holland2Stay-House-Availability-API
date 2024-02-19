@@ -1,4 +1,4 @@
-# NOT WILL BE UPDATED ANY MORE!
+#  WILL NOT BE UPDATED ANY MORE!
 When I saw that there were other projects that do the same thing, I decided not to move forward with this project. from now on, this project will be archived and will not be updated. if you need the same functionality you can search Git Hub for similar projects.
 
 Holland2Stay House Availability API is a Python-based backend service that provides house availability data for the HomeFinderBot. The API scrapes data from the Holland2Stay website and returns up-to-date information about available houses. User-related data like chat_ids from the bot are stored securely in the Firebase Realtime Database. The API, designed using Flask, is hosted on Koyeb and can be accessed at https://favourite-kelcie-mehrab.koyeb.app/
